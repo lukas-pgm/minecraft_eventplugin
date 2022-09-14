@@ -1,0 +1,19 @@
+name: EventPlugin
+version: 2.3.1
+main: de.lukas-pgm.eventplugin.main.Main
+
+commands:
+   eventmenu:
+      description: Starte ein Event
+   em:
+      description: Starte ein Event (Verkuertzter Befehl)
+   resetevent:
+      description: Stoppe ein Event
+   re:
+      description: Stoppe ein Event (Verkuertzter Befehl)
+   eventmegaphone:
+      description: Benutze das Event Megaphone
+   em:
+      description: Benutze das Event Megaphone (Verkuertzter Befehl)
+   event:
+      description: Trete einem Event bei
